@@ -1,0 +1,19 @@
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\bin\Debug\netstandard2.0\FYP Mockup.deps.json
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\bin\Debug\netstandard2.0\FYP Mockup.dll
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\bin\Debug\netstandard2.0\ref\FYP Mockup.dll
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\bin\Debug\netstandard2.0\FYP Mockup.pdb
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\FYP Mockup.csprojAssemblyReference.cache
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\FYP Mockup.AssemblyInfoInputs.cache
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\FYP Mockup.AssemblyInfo.cs
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\FYP Mockup.csproj.CoreCompileInputs.cache
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\FYP Mockup.dll
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\ref\FYP Mockup.dll
+D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup\obj\Debug\netstandard2.0\FYP Mockup.pdb
