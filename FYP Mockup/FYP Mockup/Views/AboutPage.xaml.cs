@@ -11,5 +11,9 @@ namespace FYP_Mockup.Views
         {
             InitializeComponent();
         }
+        async void Go_To_Items(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new NavigationPage(new ItemsPage()));
+        }
     }
 }

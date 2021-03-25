@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj": {}
+    "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj": {}
   },
   "projects": {
-    "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj": {
+    "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj",
+        "projectUniqueName": "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj",
         "projectName": "FYP Mockup",
-        "projectPath": "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj",
+        "projectPath": "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup\\obj\\",
+        "outputPath": "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Softinn Account\\VisualStudio Shared Components\\NuGetPackages",

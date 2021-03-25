@@ -998,11 +998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup.iOS\\FYP Mockup.iOS.csproj",
+      "projectUniqueName": "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup.iOS\\FYP Mockup.iOS.csproj",
       "projectName": "FYP Mockup.iOS",
-      "projectPath": "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup.iOS\\FYP Mockup.iOS.csproj",
+      "projectPath": "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup.iOS\\FYP Mockup.iOS.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup.iOS\\obj\\",
+      "outputPath": "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1025,8 +1025,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj": {
-              "projectPath": "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj"
+            "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj": {
+              "projectPath": "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj"
             }
           }
         }

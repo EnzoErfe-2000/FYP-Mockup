@@ -9061,11 +9061,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup.UWP\\FYP Mockup.UWP.csproj",
+      "projectUniqueName": "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup.UWP\\FYP Mockup.UWP.csproj",
       "projectName": "FYP Mockup.UWP",
-      "projectPath": "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup.UWP\\FYP Mockup.UWP.csproj",
+      "projectPath": "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup.UWP\\FYP Mockup.UWP.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup.UWP\\obj\\",
+      "outputPath": "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -9089,8 +9089,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj": {
-              "projectPath": "D:\\Softinn Account\\Repositories\\FYP Mockup\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj"
+            "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj": {
+              "projectPath": "D:\\Softinn Account\\Repositories\\Softinn Xamarin assignment\\FYP Mockup\\FYP Mockup\\FYP Mockup.csproj"
             }
           }
         }

@@ -11,7 +11,7 @@
     
     <ContentPage.Resources>
         <ResourceDictionary>
-            <Color x:Key="Accent">#ff3333</Color>
+            <Color x:Key="Accent">#fff33333</Color>
         </ResourceDictionary>
     </ContentPage.Resources>
 
@@ -42,9 +42,10 @@
                     </Label.FormattedText>
                 </Label>
                 <Button Margin="0,10,0,0" Text="Shop Now"
-                        Command="{Binding OpenWebCommand}"
+                        Clicked="Go_To_Items"
+                        
                         BackgroundColor="{StaticResource Primary}"
-                        TextColor="Black" />
+                        TextColor="White" />
             </StackLayout>
         </ScrollView>
     </Grid>

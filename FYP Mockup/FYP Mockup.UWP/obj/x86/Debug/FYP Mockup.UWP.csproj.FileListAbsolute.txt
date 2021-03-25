@@ -61,3 +61,66 @@ D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup.UWP\obj\x86\Deb
 D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\ProjectArchitectures.txt
 D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160427180000000.json
 D:\Softinn Account\Repositories\FYP Mockup\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424527200000000.json
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\App.xbf
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\MainPage.xbf
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\FYP Mockup.UWP.xr.xml
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\FYP Mockup.UWP.exe
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\FYP Mockup.UWP.pdb
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\resources.pri
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\AppxManifest.xml
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Core\FYP Mockup.UWP.exe
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\FYP Mockup.UWP.build.appxrecipe
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\System.Runtime.dll
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\FYP Mockup.dll
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\bin\x86\Debug\FYP Mockup.pdb
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\FYP Mockup.UWP.csprojAssemblyReference.cache
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\App.g.i.cs
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\App.g.cs
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\MainPage.g.cs
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\App.xaml
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\MainPage.xaml
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\App.xbf
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\MainPage.xbf
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\FYP Mockup.UWP.csproj.CoreCompileInputs.cache
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\FYP Mockup.UWP.csproj.CopyComplete
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\FYP Mockup.UWP.exe
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\FYP Mockup.UWP.pdb
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\priconfig.xml
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\resources.resfiles
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\pri.resfiles
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\qualifiers.txt
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160427180000000.json
+D:\Softinn Account\Repositories\Softinn Xamarin assignment\FYP Mockup\FYP Mockup.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424527200000000.json
